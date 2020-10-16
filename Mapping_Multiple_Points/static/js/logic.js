@@ -19,7 +19,7 @@ L.circle([34.0522, -118.2437], {
 */
 cityData.forEach(function(city) {
   console.log(city)
-  L.marker(city.location, {
+  L.circleMarker(city.location, {
     radius: city.population/200000,
     color: 'orange',
     fillColor: 'orange'
