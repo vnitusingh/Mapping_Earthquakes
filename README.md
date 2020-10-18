@@ -7,11 +7,11 @@ Mapping Earthquakes project is an insighful data visualization map with interact
 ## Approach
 The latest earthquake data is retrieved from US Geological Survey website in GeoJSON format. Following links were used to get the latest data.
 
-[All Earthquakes within last 7 days]("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson")
+[All Earthquakes within last 7 days](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
-[Earthquakes with magnitudes more than 4.5]("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson")
+[Earthquakes with magnitudes more than 4.5](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
 
-[Tectonic plate data]("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json")
+[Tectonic plate data](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
 
 The data is then traversed through using Javascript and D3 and Leaflet libraries. 
 
