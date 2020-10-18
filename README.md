@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
 ## Overview
-Mapping Earthquakes project is an insighful data visualization map with interactive features on earthquakes around the world. The goal of the project is to make earthquake maps informative and easy to use on Desktop and mobile phones to generate position buzz about disaster reporting network.
+Mapping Earthquakes project is an insightful data visualization map with interactive features on earthquakes around the world. The goal of the project is to make earthquake maps informative and easy to use on Desktop and mobile phones to generate position buzz about disaster reporting network.
 
 
 ## Approach
